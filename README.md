@@ -15,5 +15,11 @@
 *git remote add -u origin main* - подключение удаленной ветки репозитория  
 
 ---  
+## Logers  
+
+*git log* -просмотр коммитов  
+
+*git log --oneline* -сокращенный просмотр коммитов  
+
 
 THE END
