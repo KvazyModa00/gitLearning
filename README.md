@@ -33,9 +33,9 @@
 
 ***git restore --staged <file>***, ***git restore .***  --вывести из staged area файлы  
 
-***git reset --hard <commit hash>***  - откат коммита до нужного
+***git reset --hard [commit hash]***  - откат коммита до нужного
 
-***git restore <file>***  - откат модифицированных файлов
+***git restore [file]***  - откат модифицированных файлов
 
 
 
