@@ -29,5 +29,14 @@
 
 ***git commit --amend***   -изменить сообщение последнего коммита  
 
+## Откаты
+
+***git restore --staged <file>***, ***git restore .***  --вывести из staged area файлы  
+
+***git reset --hard <commit hash>***  - откат коммита до нужного
+
+***git restore <file>***  - откат модифицированных файлов
+
+
 
 THE END
