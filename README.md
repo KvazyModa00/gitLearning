@@ -31,8 +31,6 @@
 <<<<<<< HEAD
 
 ---
-=======
->>>>>>> refs/remotes/origin/main
 
 ## Откаты
 
